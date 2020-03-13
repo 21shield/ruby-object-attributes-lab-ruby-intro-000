@@ -6,4 +6,3 @@ class Dog
     dogs_name
   end
 end
-  
