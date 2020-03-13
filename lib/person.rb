@@ -6,10 +6,10 @@ class Person
     @name
   end
   def job= (current_ocupation)
-    @ocupation = current_ocupation
+    @job = current_ocupation
   end
   def job
-    @ocupation
+    @job
   end
 
 end
